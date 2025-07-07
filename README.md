@@ -1,5 +1,5 @@
-# PawFinds: A Pet Adoption System | MERN Stack Portfolio with Admin Panel
-"PawFinds" is a website where you can either give a pet up for adoption or adopt one. If you have a pet you can't care for anymore, you fill out a form. The admin then decides if they can put your pet on PawFinds. If they approve, they'll ask you to bring the pet to an adoption center.
+# PetParadise : A Pet Adoption System | MERN Stack Portfolio with Admin Panel
+"PetParadise" is a website where you can either give a pet up for adoption or adopt one. If you have a pet you can't care for anymore, you fill out a form. The admin then decides if they can put your pet on PawFinds. If they approve, they'll ask you to bring the pet to an adoption center.
 
 If you want to adopt a pet, you fill out a form with your details. The admin gets a lot of requests and picks the best one. If they choose you, they'll delete the other requests and take the pet off PawFinds. They'll keep a record of the pet and your contact info.
 
@@ -8,7 +8,7 @@ So, PawFinds makes it easy to find new homes for pets and connect them with peop
 
 
 ## Introduction
-PawFinds is a web application that connects pet lovers with pets in need of a home. Our platform simplifies the process of pet adoption by providing a seamless user experience.
+PetParadise is a web application that connects pet lovers with pets in need of a home. Our platform simplifies the process of pet adoption by providing a seamless user experience.
 
 ## Features
 - Users can submit a pet for adoption by filling out a form.
